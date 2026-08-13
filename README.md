@@ -25,7 +25,8 @@ programmation et sécurité défensive, dans le cadre de ma progression vers une
 ## À propos
 
 Étudiant en L3 Informatique et Systèmes à l'École Polytechnique de Lomé actuel ENP,
-en formation autodidacte parallèle vers le métier de SOC Analyst L1.
+en formation autodidacte parallèle vers le métier orienté Cyber  .
 
 > Pour le matériel d'apprentissage et les travaux en cours, voir mon dépôt
 > dédié à l'apprentissage.
+> Voici le lien  :  [Responsitory of my learning](https://github.com/kmaza1/RENAUD_IT-Learning_Journey.git)
