@@ -1,0 +1,60 @@
+# ===== Système d'exploitation =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Environnements virtuels / Python =====
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# ===== Node.js / JavaScript =====
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ===== Éditeurs / IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Logs et fichiers temporaires =====
+*.log
+*.tmp
+*.bak
+*.old
+
+# ===== Captures réseau et données sensibles =====
+
+!**/samples/*.pcap
+!**/samples/*.pcapng
+*.env
+.env.local
+secrets.*
+credentials.*
+*.key
+*.pem
+
+# ===== Machines virtuelles / Labs =====
+*.ova
+*.vmdk
+*.vdi
+*.iso
+
+# ===== Compilation =====
+*.o
+*.out
+*.class
+build/
+dist/
+
+# ===== Divers =====
+*.zip
+*.tar.gz
+.cache/
